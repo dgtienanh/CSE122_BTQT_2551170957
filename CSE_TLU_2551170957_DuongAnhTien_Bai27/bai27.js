@@ -1,17 +1,17 @@
 const diaDanh = {
     sonDoong: {
         ten: "Hang Sơn Đoòng",
-        anh: "./Anh/Bai27/2-son-doong.jpg",
+        anh: "../Anh/Bai27/2-son-doong.jpg",
         moTa: "Hang Sơn Đoòng nổi bật với không gian rộng lớn, những khối thạch nhũ và hệ sinh thái bên trong hang. Hoạt động khám phá cần được tổ chức theo chương trình chuyên biệt, có hướng dẫn viên."
     },
     mekong: {
         ten: "Đồng bằng sông Cửu Long",
-        anh: "./Anh/Bai27/5-mekong.jpg",
+        anh: "../Anh/Bai27/5-mekong.jpg",
         moTa: "Đồng bằng sông Cửu Long mang nét đặc trưng của miền sông nước với vườn cây, kênh rạch và chợ nổi. Du khách có thể trải nghiệm sinh hoạt địa phương và thưởng thức các món ăn miền Tây."
     },
     phongNha: {
         ten: "Động Phong Nha",
-        anh: "./Anh/Bai27/6-phong-nha.jpg",
+        anh: "../Anh/Bai27/6-phong-nha.jpg",
         moTa: "Động Phong Nha nổi bật với sông ngầm và các khối thạch nhũ đa dạng. Hành trình tham quan bằng thuyền giúp du khách ngắm nhìn cảnh quan bên trong hang."
     }
 };

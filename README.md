@@ -3,21 +3,21 @@
 **Sinh viên:** Dương Anh Tiến  
 **Mã sinh viên:** 2551170957
 
-Mỗi bài được chia thành một thư mục theo mẫu tên `CSE_TLU_MaSinhVien_HoTen_BaiN`, gồm mã HTML, CSS, JavaScript (nếu có) và ảnh tương ứng.
+Mỗi bài được chia thành một thư mục theo mẫu tên `CSE_TLU_MaSinhVien_HoTen_Bai01` đến `Bai30`, gồm mã HTML, CSS và JavaScript (nếu có). Ảnh dùng chung nằm trong thư mục `Anh` ở gốc repo.
 
 ## Danh sách bài
 
 | Bài | Thư mục mã nguồn | Tệp mở trong trình duyệt |
 | --- | --- | --- |
-| 1 | [Bài 1](./CSE_TLU_2551170957_DuongAnhTien_Bai1/) | [bai1.html](./CSE_TLU_2551170957_DuongAnhTien_Bai1/bai1.html) |
-| 2 | [Bài 2](./CSE_TLU_2551170957_DuongAnhTien_Bai2/) | [bai2.html](./CSE_TLU_2551170957_DuongAnhTien_Bai2/bai2.html) |
-| 3 | [Bài 3](./CSE_TLU_2551170957_DuongAnhTien_Bai3/) | [bai3.html](./CSE_TLU_2551170957_DuongAnhTien_Bai3/bai3.html) |
-| 4 | [Bài 4](./CSE_TLU_2551170957_DuongAnhTien_Bai4/) | [bai4.html](./CSE_TLU_2551170957_DuongAnhTien_Bai4/bai4.html) |
-| 5 | [Bài 5](./CSE_TLU_2551170957_DuongAnhTien_Bai5/) | [bai5.html](./CSE_TLU_2551170957_DuongAnhTien_Bai5/bai5.html) |
-| 6 | [Bài 6](./CSE_TLU_2551170957_DuongAnhTien_Bai6/) | [bai6.html](./CSE_TLU_2551170957_DuongAnhTien_Bai6/bai6.html) |
-| 7 | [Bài 7](./CSE_TLU_2551170957_DuongAnhTien_Bai7/) | [bai7.html](./CSE_TLU_2551170957_DuongAnhTien_Bai7/bai7.html) |
-| 8 | [Bài 8](./CSE_TLU_2551170957_DuongAnhTien_Bai8/) | [bai8.html](./CSE_TLU_2551170957_DuongAnhTien_Bai8/bai8.html) |
-| 9 | [Bài 9](./CSE_TLU_2551170957_DuongAnhTien_Bai9/) | [bai9.html](./CSE_TLU_2551170957_DuongAnhTien_Bai9/bai9.html) |
+| 1 | [Bài 1](./CSE_TLU_2551170957_DuongAnhTien_Bai01/) | [bai1.html](./CSE_TLU_2551170957_DuongAnhTien_Bai01/bai1.html) |
+| 2 | [Bài 2](./CSE_TLU_2551170957_DuongAnhTien_Bai02/) | [bai2.html](./CSE_TLU_2551170957_DuongAnhTien_Bai02/bai2.html) |
+| 3 | [Bài 3](./CSE_TLU_2551170957_DuongAnhTien_Bai03/) | [bai3.html](./CSE_TLU_2551170957_DuongAnhTien_Bai03/bai3.html) |
+| 4 | [Bài 4](./CSE_TLU_2551170957_DuongAnhTien_Bai04/) | [bai4.html](./CSE_TLU_2551170957_DuongAnhTien_Bai04/bai4.html) |
+| 5 | [Bài 5](./CSE_TLU_2551170957_DuongAnhTien_Bai05/) | [bai5.html](./CSE_TLU_2551170957_DuongAnhTien_Bai05/bai5.html) |
+| 6 | [Bài 6](./CSE_TLU_2551170957_DuongAnhTien_Bai06/) | [bai6.html](./CSE_TLU_2551170957_DuongAnhTien_Bai06/bai6.html) |
+| 7 | [Bài 7](./CSE_TLU_2551170957_DuongAnhTien_Bai07/) | [bai7.html](./CSE_TLU_2551170957_DuongAnhTien_Bai07/bai7.html) |
+| 8 | [Bài 8](./CSE_TLU_2551170957_DuongAnhTien_Bai08/) | [bai8.html](./CSE_TLU_2551170957_DuongAnhTien_Bai08/bai8.html) |
+| 9 | [Bài 9](./CSE_TLU_2551170957_DuongAnhTien_Bai09/) | [bai9.html](./CSE_TLU_2551170957_DuongAnhTien_Bai09/bai9.html) |
 | 10 | [Bài 10](./CSE_TLU_2551170957_DuongAnhTien_Bai10/) | [bai10.html](./CSE_TLU_2551170957_DuongAnhTien_Bai10/bai10.html) |
 | 11 | [Bài 11](./CSE_TLU_2551170957_DuongAnhTien_Bai11/) | [bai11.html](./CSE_TLU_2551170957_DuongAnhTien_Bai11/bai11.html) |
 | 12 | [Bài 12](./CSE_TLU_2551170957_DuongAnhTien_Bai12/) | [bai12.html](./CSE_TLU_2551170957_DuongAnhTien_Bai12/bai12.html) |
@@ -43,14 +43,15 @@ Mỗi bài được chia thành một thư mục theo mẫu tên `CSE_TLU_MaSinh
 ## Cách sử dụng
 
 1. Chọn **Code → Download ZIP** rồi giải nén.
-2. Mở thư mục của bài cần xem.
+2. Giữ nguyên thư mục `Anh` cùng cấp với các thư mục bài, rồi mở thư mục của bài cần xem.
 3. Mở `baiN.html` bằng trình duyệt hoặc Live Server trong VS Code.
 
 Các bài 25–30 dùng Bootstrap qua CDN nên cần kết nối Internet để tải Bootstrap.
 
 ## Ghi chú
 
-- Tệp mã nguồn được giữ nguyên nội dung. Ảnh được đặt lại đúng đường dẫn mà từng bài đang sử dụng, bao gồm chữ hoa và chữ thường.
-- `TaiNguyenGoc` lưu toàn bộ ảnh, tài nguyên và README ban đầu, bao gồm các bản trùng tên do lần tải lên trước.
+- Các thư mục bài được đánh số `01`–`30` để GitHub hiển thị đúng thứ tự.
+- Ảnh trùng bên trong các bài đã được bỏ. Đường dẫn ảnh trong HTML, CSS và JavaScript trỏ tới `../Anh/BaiNN/`, đúng chữ hoa và chữ thường.
+- Cần tải toàn bộ repo để các bài truy cập được thư mục ảnh chung.
 - Bài 20 gọi `bai20.js` nhưng tệp này chưa có trong dữ liệu được tải lên. Các nút chọn hiệu ứng cần bổ sung tệp JavaScript gốc để hoạt động.
 - Mẫu tham khảo đóng gói từng bài thành `.rar`; repo này trình bày từng bài bằng thư mục để xem mã trực tiếp trên GitHub.

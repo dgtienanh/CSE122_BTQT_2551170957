@@ -78,7 +78,7 @@ h1 {
     columns: 2;
     column-gap: 36px;
     list-style-type: disc;
-    list-style-image: url("./Anh/Bai18/icon_list_c.gif");
+    list-style-image: url("../Anh/Bai18/icon_list_c.gif");
 }
 
 .danhSachMon li {

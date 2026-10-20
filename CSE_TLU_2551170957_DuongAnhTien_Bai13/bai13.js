@@ -9,8 +9,8 @@ const loiChao = document.getElementById("loiChao");
 function hienThiHaiChuSo(so, anhChuc, anhDonVi) {
     const hangChuc = Math.floor(so / 10);
     const hangDonVi = so % 10;
-    anhChuc.src = "Anh/Bai13/0" + hangChuc + ".gif";
-    anhDonVi.src = "Anh/Bai13/0" + hangDonVi + ".gif";
+    anhChuc.src = "../Anh/Bai13/0" + hangChuc + ".gif";
+    anhDonVi.src = "../Anh/Bai13/0" + hangDonVi + ".gif";
 }
 function capNhatDongHo() {
     const hienTai = new Date();
