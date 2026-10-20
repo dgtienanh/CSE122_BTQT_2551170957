@@ -1,0 +1,14 @@
+div{background-color: #FFFDE7;
+border: 1px solid #9E9E9E ;
+text-align: center;
+width: 700px;
+margin: 50px auto;
+padding: 20px;
+box-sizing: border-box;}
+h1{color: #D40000;
+background-color: #FFD9E6;
+text-align: center;}
+p{color: #0033CC;
+font-style: italic;}
+hr{width: 55%;
+text-align: center;}
